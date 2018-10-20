@@ -1,2 +1,2 @@
 # gamut
-gamut repo
+gamut repo for demo for git
